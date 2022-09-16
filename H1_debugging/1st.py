@@ -1,5 +1,6 @@
 # Previous knowledge of if-statements, boolean
 # repetition for words like declare, initialize, assignment
+# lådtyperna i flowcharts
 
 # Comments in python
 """ Multi line docstrings """
@@ -8,8 +9,10 @@
 Tips!
 Helpful shortcuts in VSCode
 Ctrl+C for copy and Ctrl+V for paste
-Ctrl+F to find a specific symbol or a name in the code. Click on downwards arrow or press Ctrl+H to open the Find and Replace tool.
 Ctrl+K+C to comment out a whole block Ctrl+K+U to undo
+
+Ctrl+F to find a specific symbol or a name in the code. Click on downwards arrow or press Ctrl+H to open the Find and Replace tool.
+
 Use TAB to ->     <- tab in the code TAB+SHIFT to undo
 Ctrl+Shift+Arrowkeys to select text (left to right to select one symbol at the time, up and down to select a whole line)
 Alt+Arrowkeys to move a line you're currently on up or down in the code
