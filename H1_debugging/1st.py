@@ -16,10 +16,7 @@ Helpful shortcuts in VSCode
 Ctrl+S to save the file you are on if Auto-Save isnt on
 
 Ctrl+C for copy and Ctrl+V for paste
-<<<<<<< HEAD
-=======
 Ctrl+F to find a specific symbol or a word in the code. Click on downwards arrow to open the Find and Replace tool.
->>>>>>> 72f0bdb4ce379990f085f8c28b8b362b52004f95
 Ctrl+K+C to comment out a whole block Ctrl+K+U to undo
 
 Ctrl+F to find a specific symbol or a name in the code. Click on downwards arrow or press Ctrl+H to open the Find and Replace tool.
