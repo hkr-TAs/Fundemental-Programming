@@ -1,7 +1,6 @@
-sample_number = int(input("Number to be reversed: "))
-test_number = 0
-while sample_number > 0:
-    remainder_number = sample_number % 10
-    test_number = (test_number * 10) + remainder_number
-    sample_number = sample_number // 10
-print("Value after reverse : {}".format(test_number))
+"""Bob has a list of binary numbers and he needs help reversing them all. Bob would like to have it printed on the screen."""
+
+sample_number = ["10101010", "01011011", "10101000", "01001101", "10101110"]
+
+for number in sample_number:
+    print(number[::-1])

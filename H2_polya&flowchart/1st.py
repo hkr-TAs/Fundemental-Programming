@@ -5,7 +5,6 @@
 
 # Polyas problem solving techniques are very important! (EXAM)
 
-
 print(
     "1. Understand the problem (ignore the info that is not needed and pick out the important info)",
     "2. Create a plan (draw a picture, make a flowchart, write psudocode etc)",

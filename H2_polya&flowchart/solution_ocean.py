@@ -1,3 +1,4 @@
+"""Use polyas problem solving techniques (including a flowchart)"""
 # 237 Ex 9. Ocean levels
 
 import math
