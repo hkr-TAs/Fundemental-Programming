@@ -6,10 +6,10 @@
 # Polyas problem solving techniques are very important! (EXAM)
 
 print(
-    "1. Understand the problem (ignore the info that is not needed and pick out the important info)",
-    "2. Create a plan (draw a picture, make a flowchart, write psudocode etc)",
-    "3. Execute the plan",
-    "4. Check if the result is correct",
+    "\n1. Understand the problem (ignore the info that is not needed and pick out the important info)\n",
+    "2. Create a plan (draw a picture, make a flowchart, write psudocode etc)\n",
+    "3. Execute the plan\n",
+    "4. Check if the result is correct\n",
 )
 
 # We can now make input validators that could be used on websites
