@@ -18,12 +18,19 @@ Notes
 """
 
 def high_and_low(numbers: str) -> str:
-    numbers = [int(i) for i in numbers.split()]
-    return f"{max(numbers)} {min(numbers)}"
+    max_num = 0
+    min_num = 0
+    for number in numbers.split():
+        number = int(number)
+        if number > max_num:
+            max_num = number
+        elif number < min_num:
+            min_num = number
+    return f'{max_num} {min_num}'
 
 
 def main() -> None:
-    assert high_and_low("1 4 5 -2 -3 99") == "99 -3"
+    print(high_and_low("1 4 5 -2 -3 99"))
 
 
 if __name__ == "__main__":

@@ -15,13 +15,20 @@ Notes
 """
 
 def upper_and_lower(sentence: str) -> tuple:
-    return sum(1 for letter in sentence if letter.isupper()), sum(1 for letter in sentence if letter.islower())
+    upper= 0
+    lower = 0
+    for letter in sentence:
+        if letter.isupper():
+            upper += 1
+        elif letter.islower():
+            lower += 1
+    return upper, lower
 
 def main() -> None:
     test_one = upper_and_lower("The Quick Brown Fox")
     test_two = upper_and_lower("The Sun Is Shining")
-    assert test_one == (4, 12)
-    assert test_two == (4, 11)
+    print(test_one) ## 4, 12
+    print(test_two) ## 4, 11
 
 if __name__ == '__main__':
     main()
