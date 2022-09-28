@@ -1,8 +1,8 @@
-# Previous knowledge of if-statements, loops, FUNCTIONS, flowcharts and polyas problem solving techniques
+# Previous knowledge of if-statements, loops, FUNCTIONS, flowcharts and polyas problem solving techniques.
 """
 Ca half a page about what you have learned. 
 Even if you solved 3 of the assignments the report should be half a page long.
-https://hkr.instructure.com/courses/5190/assignments/56399 <- lets look at the assignment description together
+https://hkr.instructure.com/courses/5190/assignments/56399 <- lets look at the assignment description together.
 """
 
 """
