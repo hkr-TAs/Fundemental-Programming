@@ -17,11 +17,6 @@ Notes
 
 """
 
-<<<<<<< HEAD
-=======
-
-## SOLUTION
->>>>>>> 59ea60b0096df26b421a483c84071a2149e3e5f1
 def high_and_low(numbers: str) -> str:
     numbers = [int(i) for i in numbers.split()]
     return f"{max(numbers)} {min(numbers)}"
