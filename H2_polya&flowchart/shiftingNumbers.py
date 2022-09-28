@@ -11,7 +11,7 @@ Bob was satisfied with your last job so he's asked you for another favor.
 
 binary_numbers = ["10101010", "01011011", "10101000", "01001101", "10101110"]
 
-## Solutionwith for loop
+## Solution with for loop
 print("\nSolution with for loop:\n")
 for binary in binary_numbers:
     output = binary[1:] + binary[0]

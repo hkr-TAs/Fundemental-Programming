@@ -20,7 +20,7 @@ while z < 20:
 print("z is now under 20")
 
 
-b = "20"
+b = "20a"
 while b.isnumeric() == False:
-    b = int(input("Enter a number: "))
+    b = input("Enter a number: ")
 print("We can now continue with a numeric value")

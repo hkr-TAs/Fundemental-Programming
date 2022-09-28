@@ -7,7 +7,7 @@ binary_numbers = ["10101010", "01011011", "10101000", "01001101", "10101110"]
 for binary in binary_numbers:
     print(binary[::-1])
 
-# for number in sample_number:
+# for number in sample_numbers:
 #     test_number = 0
 #     number = int(number)
 #     while number > 0:
